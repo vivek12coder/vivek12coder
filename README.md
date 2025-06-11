@@ -1,5 +1,7 @@
 
-(https://github.com/v45cfghh/v45cfghh/blob/output/github-contribution-grid-snake.svg)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/v45cfghh/v45cfghh/output/github-contribution-grid-snake.svg)
+
 
 <h1 align="center">Hi, I'm Vivek 👋</h1>
 <p align="center">
