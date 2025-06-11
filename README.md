@@ -1,21 +1,33 @@
 <h1 align="center">Hi, I'm Vivek 👋</h1>
 <p align="center">
-  💻 Code artisan | 🌱 Lifelong learner | 🎯 Dream-chaser <br>
+  🎓 BCA Student | 💻 Cybersecurity Enthusiast | 🤖 AI + IoT Dev <br>
   "Building one block at a time — with logic, empathy, and coffee ☕"
 </p>
 
 ---
 
 ### 🧠 Who am I?
-- 🧑‍💻 Full-time bug squasher, part-time idea sculptor
-- 🌀 I enjoy turning 💡thoughts into 💻 code that makes life better
-- 🛠 Currently crafting smart solutions with **AI**, **IoT**, and **clean code**
+
+- 🎓 I'm a **BCA student** passionate about solving real-world problems with code.
+- 🛡️ A self-taught **Cybersecurity learner** who loves breaking things ethically and fixing them smartly.
+- 🧑‍💻 Full-time bug squasher, part-time idea sculptor.
+- 🛠 Currently exploring **AI**, **IoT**, **Web Dev**, and **Ethical Hacking**.
+- 🌱 Forever a student — I code, break, secure, learn, repeat 🔁
 
 ---
 
 ### ⚒️ My Toolbox
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,git,github,vscode,figma" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=v45cfghh&theme=tokyonight&margin-w=10&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions" />
 </p>
 
 ---
@@ -41,3 +53,4 @@
 📦 school-erp-website   → Modern web portal for schools with Tailwind & Vite
 🤖 ecoAI-iot            → Green energy optimizer using AI + IoT
 🎨 coding-club-naruto   → A ninja-style dev club with chakra-powered ideas
+🛡️ cyber-sim-lab        → Beginner-friendly ethical hacking simulations and tools
