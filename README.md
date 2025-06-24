@@ -8,6 +8,11 @@
   🎓 BCA Student | 💻 Cybersecurity Enthusiast | 🤖 AI + IoT Dev <br>
   "Building one block at a time — with logic, empathy, and coffee ☕"
 </p>
+### 🔢 Live Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=v45cfghh&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
