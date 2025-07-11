@@ -9,7 +9,7 @@
   "Building one block at a time — with logic, empathy, and coffee ☕"
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=v45cfghh&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vivek12coder&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v45cfghh&theme=tokyonight&margin-w=10&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek12coder&theme=tokyonight&margin-w=10&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions" />
 </p>
 
 ---
@@ -45,10 +45,10 @@
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=v45cfghh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek12coder&show_icons=true&theme=tokyonight&hide_border=true" />
 </td>
 <td>
-  <img src="https://streak-stats.demolab.com?user=v45cfghh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vivek12code&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 </table>
