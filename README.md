@@ -64,10 +64,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek12coder&theme=tokyonight&margin-w=15&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
-</p>
 
 ---
 
@@ -83,10 +79,6 @@
 
 </td>
 <td width="50%">
-
-**🔥 Streak Stats**
-
-<img src="https://streak-stats.demolab.com?user=vivek12coder&theme=tokyonight&hide_border=true" />
 
 </td>
 </tr>
