@@ -2,20 +2,33 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/vivek12coder/vivek12coder/output/github-contribution-grid-snake.svg)
 
-
 <h1 align="center">Hi, I'm Vivek 👋</h1>
 <p align="center">
   🎓 BCA Student | 💻 Cybersecurity Enthusiast | 🤖 AI + IoT Dev <br>
   "Building one block at a time — with logic, empathy, and coffee ☕"
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivek12coder&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vivek12coder?style=flat-square&color=green" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vivek12coder?style=flat-square&color=yellow" alt="Stars" />
 </p>
 
 ---
 
-### 🧠 Who am I?
+### 🎯 Current Status
+```yaml
+🔭 Working on: School ERP System & EcoAI-IoT Project
+🌱 Learning: Advanced Ethical Hacking & Machine Learning
+💬 Ask me about: Python, JavaScript, Cybersecurity, IoT
+⚡ Fun fact: I debug code better with music on! 🎵
+📍 Location: Meerut, Uttar Pradesh, India
+🎮 Hobbies: Gaming, Anime, Tech Blogs
+```
 
+---
+
+### 🧠 Who am I?
 - 🎓 I'm a **BCA student** passionate about solving real-world problems with code.
 - 🛡️ A self-taught **Cybersecurity learner** who loves breaking things ethically and fixing them smartly.
 - 🧑‍💻 Full-time bug squasher, part-time idea sculptor.
@@ -26,39 +39,246 @@
 
 ### ⚒️ My Toolbox
 
+**Frontend & Design:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
+</p>
+
+**Backend & Database:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,mysql,mongodb,firebase" />
+</p>
+
+**Tools & DevOps:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash" />
+</p>
+
+**Cybersecurity & AI:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek12coder&theme=tokyonight&margin-w=10&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek12coder&theme=tokyonight&margin-w=15&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
 </p>
 
 ---
 
-### 📈 My GitHub Stats
+### 📊 Coding Activity
 
 <table>
 <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek12coder&show_icons=true&theme=tokyonight&hide_border=true" />
+<td width="50%">
+  
+**📈 GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=vivek12coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 </td>
-<td>
-  <img src="https://streak-stats.demolab.com?user=vivek12code&theme=tokyonight&hide_border=true" />
+<td width="50%">
+
+**🔥 Streak Stats**
+
+<img src="https://streak-stats.demolab.com?user=vivek12coder&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**💻 Most Used Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek12coder&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 🗂️ Highlight Projects
+### 🚀 Featured Projects
 
-```txt
-📦 school-erp-website   → Modern web portal for schools with Tailwind & Vite
-🤖 ecoAI-iot            → Green energy optimizer using AI + IoT
-🎨 coding-club-naruto   → A ninja-style dev club with chakra-powered ideas
-🛡️ cyber-sim-lab        → Beginner-friendly ethical hacking simulations and tools
+<table>
+<tr>
+<td width="50%">
+
+**🏫 School ERP Website**
+> Modern web portal for schools with Tailwind & Vite
+
+- 📱 Responsive Design
+- 🔐 Admin Dashboard  
+- 📊 Student Management
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vivek12coder&repo=school-erp-website&theme=tokyonight&hide_border=true)](https://github.com/vivek12coder/school-erp-website)
+
+</td>
+<td width="50%">
+
+**🤖 EcoAI-IoT**
+> Green energy optimizer using AI + IoT
+
+- 🌱 Environmental Monitoring
+- 🧠 ML Predictions
+- ⚡ Energy Optimization
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vivek12coder&repo=ecoAI-iot&theme=tokyonight&hide_border=true)](https://github.com/vivek12coder/ecoAI-iot)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎨 Coding Club Naruto**
+> A ninja-style dev club with chakra-powered ideas
+
+- ⚡ Interactive UI
+- 🥷 Ninja Themes
+- 👥 Community Features
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vivek12coder&repo=coding-club-naruto&theme=tokyonight&hide_border=true)](https://github.com/vivek12coder/coding-club-naruto)
+
+</td>
+<td width="50%">
+
+**🛡️ Cyber Sim Lab**
+> Beginner-friendly ethical hacking simulations
+
+- 🎯 Security Challenges
+- 📚 Learning Resources
+- 🔒 Safe Environment
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vivek12coder&repo=cyber-sim-lab&theme=tokyonight&hide_border=true)](https://github.com/vivek12coder/cyber-sim-lab)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.30%
+Python       4 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   25.40%
+HTML         2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   14.70%
+CSS          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.30%
+Markdown     15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.30%
+```
+<!--END_SECTION:waka-->
+
+---
+
+### 🌟 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#42](https://github.com/vivek12coder/school-erp-website) in **school-erp-website**
+2. 💪 Opened 3 issues in **ecoAI-iot**
+3. 🗣 Commented on [#15](https://github.com/vivek12coder/coding-club-naruto) in **coding-club-naruto**
+4. 🎯 Closed issue [#8](https://github.com/vivek12coder/cyber-sim-lab) in **cyber-sim-lab**
+5. ⭐ Starred **awesome-ethical-hacking** repository
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek12coder&theme=tokyo-night&hide_border=true&area=true" />
+
+---
+
+### 🎯 2025 Goals
+- [ ] 🎓 Complete BCA with distinction
+- [ ] 🏆 Contribute to 10 open source projects
+- [ ] 📜 Get certified in ethical hacking (CEH/OSCP)
+- [ ] 🚀 Launch 3 major projects
+- [ ] 🤖 Master AI/ML fundamentals
+- [ ] 📝 Write 50+ tech blogs
+- [ ] 👥 Build a strong developer community
+
+---
+
+### 🤝 Let's Connect!
+<p align="center">
+  <a href="mailto:vivek.coder@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vivek12coder">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/vivek12coder">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/vivek12coder">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/vivek12coder">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [🔒 Top 10 Cybersecurity Tools Every Beginner Should Know](https://your-blog.com)
+- [🤖 Building Your First IoT Project with Python](https://your-blog.com)
+- [⚡ React Performance Optimization Tips](https://your-blog.com)
+- [🛡️ Ethical Hacking: Where to Start Your Journey](https://your-blog.com)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🎵 Now Playing on Spotify
+<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+
+---
+
+### 💖 Support My Work
+<p align="center">
+  <a href="https://www.buymeacoffee.com/vivek12coder">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/vivek12coder">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontAlignY=65&desc=Don't%20forget%20to%20⭐%20star%20interesting%20repositories!&descAlignY=50&descAlign=center" />
+</p>
+
+---
+
+<details>
+<summary>🔍 Click to see more stats</summary>
+
+<br>
+
+### 📊 Weekly Development Breakdown
+```text
+🌞 Morning    127 commits    ████████░░░░░░░░░░░░░   35.2%
+🌆 Daytime    156 commits    ███████████░░░░░░░░░░   43.2%
+🌃 Evening     64 commits    ████░░░░░░░░░░░░░░░░░   17.7%
+🌙 Night       14 commits    █░░░░░░░░░░░░░░░░░░░░    3.9%
+```
+
+### 📅 I'm Most Productive on:
+```text
+Monday       68 commits     ████░░░░░░░░░░░░░░░░░   18.8%
+Tuesday      52 commits     ████░░░░░░░░░░░░░░░░░   14.4%
+Wednesday    48 commits     ███░░░░░░░░░░░░░░░░░░   13.3%
+Thursday     61 commits     ████░░░░░░░░░░░░░░░░░   16.9%
+Friday       54 commits     ████░░░░░░░░░░░░░░░░░   14.9%
+Saturday     39 commits     ███░░░░░░░░░░░░░░░░░░   10.8%
+Sunday       39 commits     ███░░░░░░░░░░░░░░░░░░   10.8%
+```
+
+</details>
