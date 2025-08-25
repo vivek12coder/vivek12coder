@@ -205,32 +205,19 @@ Markdown     15 mins         ░░░░░░░░░░░░░░░░░
 
 ### 🤝 Let's Connect!
 <p align="center">
-  <a href="mailto:vivek.coder@example.com">
+  <a href="mailto:vv8872728@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/vivek12coder">
+  <a href="www.linkedin.com/in/vivek-vishwakarma-953697321">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/vivek12coder">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/vivek12coder">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/vivek12coder">
+  <a href="https://discord.gg/ovegoodtwobadgamer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [🔒 Top 10 Cybersecurity Tools Every Beginner Should Know](https://your-blog.com)
-- [🤖 Building Your First IoT Project with Python](https://your-blog.com)
-- [⚡ React Performance Optimization Tips](https://your-blog.com)
-- [🛡️ Ethical Hacking: Where to Start Your Journey](https://your-blog.com)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
