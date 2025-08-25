@@ -216,25 +216,10 @@ Markdown     15 mins         ░░░░░░░░░░░░░░░░░
   </a>
 </p>
 
----
 
 
----
 
-### 🎵 Now Playing on Spotify
-<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
 
----
-
-### 💖 Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/vivek12coder">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://ko-fi.com/vivek12coder">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-</p>
 
 ---
 
