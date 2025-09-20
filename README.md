@@ -15,7 +15,40 @@
 </p>
 
 ---
+📊 GitHub Stats
+<div align="center">
+Show Image
+Show Image
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek12coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=ffffff" alt="Top Languages" />
+</div>
+🏆 GitHub Trophies
+<div align="center">
+Show Image
+</div>
+📈 Contribution Graph
+<div align="center">
+Show Image
+</div>
+🔥 Stats Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek12coder&theme=github_dark" alt="Profile Details" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek12coder&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek12coder&theme=github_dark" alt="Most Commit Language" />
+</div>
+📫 Connect with Me
+<div align="center">
+Show Image
+Show Image
+Show Image
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek12coder&color=orange&style=flat-square" alt="Profile Views" />
+</div>
 ### 🎯 Current Status
 ```yaml
 🔭 Working on: School ERP System & EcoAI-IoT Project
