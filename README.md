@@ -49,15 +49,7 @@ Show Image
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vivek12coder&color=orange&style=flat-square" alt="Profile Views" />
 </div>
-### 🎯 Current Status
-```yaml
-🔭 Working on: School ERP System & EcoAI-IoT Project
-🌱 Learning: Advanced Ethical Hacking & Machine Learning
-💬 Ask me about: Python, JavaScript, Cybersecurity, IoT
-⚡ Fun fact: I debug code better with music on! 🎵
-📍 Location: Meerut, Uttar Pradesh, India
-🎮 Hobbies: Gaming, Anime, Tech Blogs
-```
+
 
 ---
 
