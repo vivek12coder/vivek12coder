@@ -29,16 +29,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek12coder&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek12coder&theme=github_dark" alt="Most Commit Language" />
 </div>
-📫 Connect with Me
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek12coder&color=orange&style=flat-square" alt="Profile Views" />
-</div>
+
 
 
 ---
@@ -116,11 +108,11 @@ Show Image
 ### 💻 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.30%
-Python       4 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   25.40%
+Python       8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.30%
+C progra     4 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   25.40%
 HTML         2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   14.70%
 CSS          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.30%
-Markdown     15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.30%
+shell        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.30%
 ```
 <!--END_SECTION:waka-->
 
@@ -143,7 +135,7 @@ Markdown     15 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 - [ ] 🎓 Complete BCA with distinction
 - [ ] 🏆 Contribute to 10 open source projects
 - [ ] 📜 Get certified in ethical hacking (CEH/OSCP)
