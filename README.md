@@ -15,11 +15,6 @@
 </p>
 
 ---
-📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek12coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=ffffff" alt="Top Languages" />
-</div>
 
 🔥 Stats Summary
 <div align="center">
@@ -103,29 +98,13 @@
 ---
 
 
----
 
-### 💻 This Week I Spent My Time On:
-<!--START_SECTION:waka-->
-```text
-Python       8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.30%
-C progra     4 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   25.40%
-HTML         2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   14.70%
-CSS          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.30%
-shell        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.30%
-```
-<!--END_SECTION:waka-->
-
----
 
 ### 🌟 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. 🎉 Merged PR [#42](https://github.com/vivek12coder/school-erp-website) in **school-erp-website**
 2. 💪 Opened 3 issues in **ecoAI-iot**
-3. 🗣 Commented on [#15](https://github.com/vivek12coder/coding-club-naruto) in **coding-club-naruto**
-4. 🎯 Closed issue [#8](https://github.com/vivek12coder/cyber-sim-lab) in **cyber-sim-lab**
-5. ⭐ Starred **awesome-ethical-hacking** repository
 <!--RECENT_ACTIVITY:end-->
 
 ---
@@ -136,12 +115,9 @@ shell        15 mins         ░░░░░░░░░░░░░░░░░
 ---
 
 ### 🎯 2026 Goals
-- [ ] 🎓 Complete BCA with distinction
 - [ ] 🏆 Contribute to 10 open source projects
-- [ ] 📜 Get certified in ethical hacking (CEH/OSCP)
 - [ ] 🚀 Launch 3 major projects
 - [ ] 🤖 Master AI/ML fundamentals
-- [ ] 📝 Write 50+ tech blogs
 - [ ] 👥 Build a strong developer community
 
 ---
@@ -172,28 +148,3 @@ shell        15 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-<details>
-<summary>🔍 Click to see more stats</summary>
-
-<br>
-
-### 📊 Weekly Development Breakdown
-```text
-🌞 Morning    127 commits    ████████░░░░░░░░░░░░░   35.2%
-🌆 Daytime    156 commits    ███████████░░░░░░░░░░   43.2%
-🌃 Evening     64 commits    ████░░░░░░░░░░░░░░░░░   17.7%
-🌙 Night       14 commits    █░░░░░░░░░░░░░░░░░░░░    3.9%
-```
-
-### 📅 I'm Most Productive on:
-```text
-Monday       68 commits     ████░░░░░░░░░░░░░░░░░   18.8%
-Tuesday      52 commits     ████░░░░░░░░░░░░░░░░░   14.4%
-Wednesday    48 commits     ███░░░░░░░░░░░░░░░░░░   13.3%
-Thursday     61 commits     ████░░░░░░░░░░░░░░░░░   16.9%
-Friday       54 commits     ████░░░░░░░░░░░░░░░░░   14.9%
-Saturday     39 commits     ███░░░░░░░░░░░░░░░░░░   10.8%
-Sunday       39 commits     ███░░░░░░░░░░░░░░░░░░   10.8%
-```
-
-</details>
