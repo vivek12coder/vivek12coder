@@ -69,31 +69,6 @@
 
 ---
 
-### 📊 Coding Activity
-
-<table>
-<tr>
-<td width="50%">
-  
-**📈 GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=vivek12coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-**💻 Most Used Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek12coder&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</td>
-</tr>
-</table>
 
 ---
 
