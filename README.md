@@ -1,4 +1,4 @@
-
+[![Smart Auto Commit with AI Tech Quote](https://github.com/vivek12coder/hms/actions/workflows/main.yml/badge.svg)](https://github.com/vivek12coder/hms/actions/workflows/main.yml)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/vivek12coder/vivek12coder/output/github-contribution-grid-snake.svg)
 
